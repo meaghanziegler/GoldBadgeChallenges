@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Assignments\113SD\GoldBadge_ConsoleApp_Challenges\KomodoOutings\bin\Debug\KomodoOutings.exe.config
+C:\ElevenFiftyProjects\Assignments\113SD\GoldBadge_ConsoleApp_Challenges\KomodoOutings\bin\Debug\KomodoOutings.exe
+C:\ElevenFiftyProjects\Assignments\113SD\GoldBadge_ConsoleApp_Challenges\KomodoOutings\bin\Debug\KomodoOutings.pdb
+C:\ElevenFiftyProjects\Assignments\113SD\GoldBadge_ConsoleApp_Challenges\KomodoOutings\obj\Debug\KomodoOutings.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Assignments\113SD\GoldBadge_ConsoleApp_Challenges\KomodoOutings\obj\Debug\KomodoOutings.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Assignments\113SD\GoldBadge_ConsoleApp_Challenges\KomodoOutings\obj\Debug\KomodoOutings.exe
+C:\ElevenFiftyProjects\Assignments\113SD\GoldBadge_ConsoleApp_Challenges\KomodoOutings\obj\Debug\KomodoOutings.pdb
