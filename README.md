@@ -16,4 +16,6 @@ The Komodo Cafe is for some reason located under the file named GoldBadge_Consol
 
 Commiting things to github is not my strong suit...
 
-The repository tests for all three challenges are under the flie called Testing.
+The repository tests for all three challenges are under the file called Testing.
+
+I do not know what all the other files are on this repository, but I am not touching them in fear of breaking everything.
