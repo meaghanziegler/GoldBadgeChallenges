@@ -1,4 +1,3 @@
-"# GoldBadgeChallenges" 
 # GoldBadgeChallenges
 
 This repository contains three challenges for the Gold Badge Console Application Challenges.
@@ -6,7 +5,9 @@ This repository contains three challenges for the Gold Badge Console Application
 The challenges that were done are:
 
 1.Komodo Cafe
+
 2.Komodo Claims Department
+
 3.Komodo Outings
 
 When looking at the files, you can see the flie for both Komodo Claims Department and Komodo Outings.
