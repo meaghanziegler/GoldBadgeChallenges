@@ -1,7 +1,0 @@
-C:\ElevenFiftyProjects\Assignments\113SD\GoldBadge_ConsoleApp_Challenges\KomodoInsuranceBadges\bin\Debug\KomodoInsuranceBadges.exe.config
-C:\ElevenFiftyProjects\Assignments\113SD\GoldBadge_ConsoleApp_Challenges\KomodoInsuranceBadges\bin\Debug\KomodoInsuranceBadges.exe
-C:\ElevenFiftyProjects\Assignments\113SD\GoldBadge_ConsoleApp_Challenges\KomodoInsuranceBadges\bin\Debug\KomodoInsuranceBadges.pdb
-C:\ElevenFiftyProjects\Assignments\113SD\GoldBadge_ConsoleApp_Challenges\KomodoInsuranceBadges\obj\Debug\KomodoInsuranceBadges.csproj.AssemblyReference.cache
-C:\ElevenFiftyProjects\Assignments\113SD\GoldBadge_ConsoleApp_Challenges\KomodoInsuranceBadges\obj\Debug\KomodoInsuranceBadges.csproj.CoreCompileInputs.cache
-C:\ElevenFiftyProjects\Assignments\113SD\GoldBadge_ConsoleApp_Challenges\KomodoInsuranceBadges\obj\Debug\KomodoInsuranceBadges.exe
-C:\ElevenFiftyProjects\Assignments\113SD\GoldBadge_ConsoleApp_Challenges\KomodoInsuranceBadges\obj\Debug\KomodoInsuranceBadges.pdb
