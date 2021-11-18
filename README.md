@@ -12,7 +12,7 @@ The challenges that were done are:
 
 When looking at the files, you can see the flie for both Komodo Claims Department and Komodo Outings.
 
-The Komodo Cafe is for some reason located under the flie named GoldBadge_ConsoleApp_Challenges.
+The Komodo Cafe is for some reason located under the file named GoldBadge_ConsoleApp_Challenges.
 
 Commiting things to github is not my strong suit...
 
