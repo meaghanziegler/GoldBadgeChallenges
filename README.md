@@ -10,7 +10,7 @@ The challenges that were done are:
 
 3.Komodo Outings
 
-When looking at the files, you can see the flie for both Komodo Claims Department and Komodo Outings.
+When looking at the files, you can see the file for both Komodo Claims Department and Komodo Outings.
 
 The Komodo Cafe is for some reason located under the file named GoldBadge_ConsoleApp_Challenges.
 
